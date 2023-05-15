@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+h1{
+	width:100%;
+	text-align:center;
+}
+
+.date{
+	color: #61a7cb;
+}
+
+.time{
+	color: green;
+}
